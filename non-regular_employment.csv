@@ -1,0 +1,55 @@
+year_of_survey,employment_status,male,female,people
+2023,"part-time worker",129,901,1030
+2023,"temporary worker",226,233,459
+2023,"dispatched worker",61,95,156
+2023,"contract employee",152,131,283
+2023,"entrusted employee",73,39,112
+2023,"other non-regular employee",43,42,85
+2022,"part-time worker",124,897,1021
+2022,"temporary worker",224,229,453
+2022,"dispatched worker",59,90,149
+2022,"contract employee",150,133,283
+2022,"entrusted employee",71,41,112
+2022,"other non-regular employee",40,43,83
+2021,"part-time worker",123,895,1018
+2021,"temporary worker",217,221,438
+2021,"dispatched worker",53,87,140
+2021,"contract employee",147,128,275
+2021,"entrusted employee",71,41,112
+2021,"other non-regular employee",41,41,82
+2020,"part-time worker",122,902,1024
+2020,"temporary worker",225,223,448
+2020,"dispatched worker",54,85,139
+2020,"contract employee",146,133,279
+2020,"entrusted employee",75,41,116
+2020,"other non-regular employee",43,42,85
+2019,"part-time worker",123,924,1047
+2019,"temporary worker",232,240,472
+2019,"dispatched worker",56,85,141
+2019,"contract employee",156,138,294
+2019,"entrusted employee",81,44,125
+2019,"other non-regular employee",43,43,86
+2018,"part-time worker",121,914,1035
+2018,"temporary worker",226,229,455
+2018,"dispatched worker",51,85,136
+2018,"contract employee",156,138,294
+2018,"entrusted employee",75,45,120
+2018,"other non-regular employee",40,40,80
+2017,"part-time worker",113,884,997
+2017,"temporary worker",210,207,417
+2017,"dispatched worker",53,81,134
+2017,"contract employee",156,135,291
+2017,"entrusted employee",75,45,120
+2017,"other non-regular employee",40,38,78
+2016,"part-time worker",115,869,984
+2016,"temporary worker",208,205,413
+2016,"dispatched worker",55,78,133
+2016,"contract employee",154,133,287
+2016,"entrusted employee",74,44,118
+2016,"other non-regular employee",42,39,81
+2015,"part-time worker",108,852,960
+2015,"temporary worker",204,201,405
+2015,"dispatched worker",50,76,126
+2015,"contract employee",154,133,287
+2015,"entrusted employee",75,43,118
+2015,"other non-regular employee",42,41,83

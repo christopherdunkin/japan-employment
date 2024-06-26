@@ -1,0 +1,172 @@
+year_of_survey,employment_status,male,female
+2023,labour force status unknown,4,4
+2023,not in labour force,1516,2568
+2023,in labour force,3802,3124
+2023,unemployed,105,73
+2023,employed,3697,3051
+2023,employment type unknown,19,14
+2023,self-employed,369,143
+2023,family worker,26,101
+2023,employee,3283,2793
+2023,executive,253,84
+2023,non-executive,3030,2709
+2023,regular employee,2346,1268
+2023,non-regular employee,684,1441
+2023,part-time worker,129,901
+2023,temporary worker,226,233
+2023,dispatched worker,61,95
+2023,contract employee,152,131
+2023,entrusted employee,73,39
+2023,other non-regular employee,43,42
+2022,labour force status unknown,4,4
+2022,not in labour force,1518,2610
+2022,in labour force,3804,3098
+2022,unemployed,107,73
+2022,employed,3697,3025
+2022,employment type unknown,19,14
+2022,self-employed,376,138
+2022,family worker,26,107
+2022,employee,3276,2766
+2022,executive,260,83
+2022,non-executive,3016,2683
+2022,regular employee,2348,1250
+2022,non-regular employee,668,1433
+2022,part-time worker,124,897
+2022,temporary worker,224,229
+2022,dispatched worker,59,90
+2022,contract employee,150,133
+2022,entrusted employee,71,41
+2022,other non-regular employee,40,43
+2021,labour force status unknown,4,5
+2021,not in labour force,1526,2650
+2021,in labour force,3803,3057
+2021,unemployed,116,77
+2021,employed,3687,2980
+2021,employment type unknown,19,15
+2021,self-employed,385,136
+2021,family worker,27,112
+2021,employee,3256,2717
+2021,executive,261,82
+2021,non-executive,2995,2635
+2021,regular employee,2343,1222
+2021,non-regular employee,652,1413
+2021,part-time worker,123,895
+2021,temporary worker,217,221
+2021,dispatched worker,53,87
+2021,contract employee,147,128
+2021,entrusted employee,71,41
+2021,other non-regular employee,41,41
+2020,labour force status unknown,4,4
+2020,not in labour force,1527,2677
+2020,in labour force,3824,3044
+2020,unemployed,115,76
+2020,employed,3709,2968
+2020,employment type unknown,21,17
+2020,self-employed,391,135
+2020,family worker,27,113
+2020,employee,3270,2703
+2020,executive,260,83
+2020,non-executive,3010,2620
+2020,regular employee,2345,1194
+2020,non-regular employee,665,1426
+2020,part-time worker,122,902
+2020,temporary worker,225,223
+2020,dispatched worker,54,85
+2020,contract employee,146,133
+2020,entrusted employee,75,41
+2020,other non-regular employee,43,42
+2019,labour force status unknown,4,5
+2019,not in labour force,1526,2670
+2019,in labour force,3829,3056
+2019,unemployed,96,66
+2019,employed,3733,2990
+2019,employment type unknown,26,19
+2019,self-employed,394,137
+2019,family worker,29,115
+2019,employee,3284,2719
+2019,executive,251,84
+2019,non-executive,3033,2635
+2019,regular employee,2342,1161
+2019,non-regular employee,691,1474
+2019,part-time worker,123,924
+2019,temporary worker,232,240
+2019,dispatched worker,56,85
+2019,contract employee,156,138
+2019,entrusted employee,81,44
+2019,other non-regular employee,43,43
+2018,labour force status unknown,4,4
+2018,not in labour force,1542,2721
+2018,in labour force,3816,3013
+2018,unemployed,99,67
+2018,employed,3717,2946
+2018,employment type unknown,24,18
+2018,self-employed,398,137
+2018,family worker,31,120
+2018,employee,3264,2671
+2018,executive,248,82
+2018,non-executive,3016,2589
+2018,regular employee,2347,1138
+2018,non-regular employee,669,1451
+2018,part-time worker,121,914
+2018,temporary worker,226,229
+2018,dispatched worker,51,85
+2018,contract employee,156,138
+2018,entrusted employee,75,45
+2018,other non-regular employee,40,40
+2017,labour force status unknown,3,3
+2017,not in labour force,1578,2803
+2017,in labour force,3783,2936
+2017,unemployed,112,78
+2017,employed,3671,2858
+2017,employment type unknown,18,14
+2017,self-employed,395,133
+2017,family worker,30,121
+2017,employee,3228,2590
+2017,executive,263,86
+2017,non-executive,2965,2504
+2017,regular employee,2318,1114
+2017,non-regular employee,647,1390
+2017,part-time worker,113,884
+2017,temporary worker,210,207
+2017,dispatched worker,53,81
+2017,contract employee,156,135
+2017,entrusted employee,75,45
+2017,other non-regular employee,40,38
+2016,labour force status unknown,3,3
+2016,not in labour force,1578,2846
+2016,in labour force,3765,2882
+2016,unemployed,126,82
+2016,employed,3639,2800
+2016,employment type unknown,18,13
+2016,self-employed,394,133
+2016,family worker,30,123
+2016,employee,3197,2531
+2016,executive,263,85
+2016,non-executive,2934,2446
+2016,regular employee,2286,1078
+2016,non-regular employee,648,1368
+2016,part-time worker,115,869
+2016,temporary worker,208,205
+2016,dispatched worker,55,78
+2016,contract employee,154,133
+2016,entrusted employee,74,44
+2016,other non-regular employee,42,39
+2015,labour force status unknown,4,3
+2015,not in labour force,1585,2888
+2015,in labour force,3754,2844
+2015,unemployed,134,88
+2015,employed,3620,2756
+2015,employment type unknown,18,13
+2015,self-employed,407,136
+2015,family worker,30,132
+2015,employee,3165,2475
+2015,executive,262,86
+2015,non-executive,2903,2389
+2015,regular employee,2270,1043
+2015,non-regular employee,633,1346
+2015,part-time worker,108,852
+2015,temporary worker,204,201
+2015,dispatched worker,50,76
+2015,contract employee,154,133
+2015,entrusted employee,75,43
+2015,other non-regular employee,42,41
