@@ -10,9 +10,6 @@ As well as general employment patterns, we were particularly interested in gende
 * the Japanese employment rate was consistently low over the period, and slightly lower for women than for men. For both genders, the unemployment rates changed the same way over the period. There was a fall in the unemployment rate from 2015 to 2019, but an increase in 2020 and 2021, probably due to the COVID-19 pandemic, though this increase was only slight.
 * non-regular employment is mostly comprised of part-time work, followed by temporary work and then contract work. While temporary work is largely evenly split between men and women, part-time workers are overwhelmingly women. 
 
-Note the following on the types of non-regular employment:
-
-* "temporary work" here means アルバイト *arubaito* which refers to side-jobs (done in addition to a main job or school), typically held by university students, while "part-time work" means パート *paato* – jobs that are not full-time and are held by those who do not have other employment elsewhere. While the terms are often used interchangeably in Japanese, they are distinguished in the survey (see "Part-time and temporary employment in Japan", Susan Houseman and Machiko Osawa).
-* "dispatched worker" refers to a dispatched worker from temporary labour agency.
+Note that "temporary work" here means アルバイト *arubaito* which refers to side-jobs (done in addition to a main job or school), typically held by university students, while "part-time work" means パート *paato* – jobs that are not full-time and are held by those who do not have other employment elsewhere. While the terms are often used interchangeably in Japanese, they are distinguished in the survey (see "Part-time and temporary employment in Japan", Susan Houseman and Machiko Osawa).
 
 For more information on the definitions used in the Labour Force Survey, please see the following [document](https://www.stat.go.jp/english/data/roudou/pdf/definite.pdf) issued by the Japanese government.
