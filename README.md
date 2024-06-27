@@ -2,4 +2,4 @@ This repository contains files used in the creation of the following [visualisat
 
 The data used was sourced from the [Japanese government's annual Labour Force Survey](https://www.e-stat.go.jp/en/stat-search/files?page=1&layout=datalist&toukei=00200531&tstat=000000110001&cycle=7&tclass1=000001040276&tclass2=000001040283&tclass3=000001040284&cycle_facet=tclass1%3Atclass2%3Acycle&tclass4val=0&metadata=1&data=1) (via e-Stat). The project was inspired by Maryna Shut's [Japan employment data 2017 - 2021](https://www.kaggle.com/datasets/marshuu/japan-employment-data-2017-2021/data?select=Employment_Japan+-+employment.csv) Kaggle dataset, but we decided to source our data directly from e-Stat to consider a larger time range, among other reasons.
 
-We extracted the necessary data for each figure in the visualisation using SQL (MySQL), and then created the visualisation in Tableau Public.
+We extracted the data necessary for each figure in the visualisation using SQL (MySQL), and then created the visualisation itself in Tableau Public.
